@@ -1,4 +1,4 @@
-# Reddit Video Maker Bot 🎥
+# Reddit Video Maker Bot RU 🎥
 
 https://user-images.githubusercontent.com/6053155/170525726-2db23ae0-97b8-4bd1-8c95-00da60ce099f.mp4
 
@@ -21,13 +21,13 @@ These videos on TikTok, YouTube and Instagram get MILLIONS of views across all p
 
 ## Disclaimers 🚨
 
--   This is purely for fun purposes.
--   **At the moment**, this repository won't attempt to upload this content through this bot. It will give you a file that you will then have to upload manually. This is for the sake of avoiding any sort of community guideline issues.
+- Это чисто для развлекательных целей.
+- **В настоящий момент** этот репозиторий не будет пытаться загрузить этот контент через этого бота. Это даст вам файл, который вам нужно будет загрузить вручную. Это делается для того, чтобы избежать каких-либо проблем с правилами сообщества.
 
 ## Requirements
 
 -   Python 3.6+
--   Playwright (this should install automatically during installation)
+-   Playwright (это должно установиться автоматически во время установки)
 
 ## Installation 👩‍💻
 
@@ -36,27 +36,27 @@ These videos on TikTok, YouTube and Instagram get MILLIONS of views across all p
 2. Run `pip3 install -r requirements.txt`
 3. Run `playwright install` and `playwright install-deps`.
 4. 
-	4a **Automatic Install**: Run `python3 main.py` and type 'yes' to activate the setup assistant.
+	4a **Автоматическая установка**: запустите `python3 main.py` и введите 'yes', чтобы активировать помощника по установке.
 
-	4b **Manual Install**: Rename `.env.template` to `.env` and replace all values with the appropriate fields. To get Reddit keys (**required**), visit [the Reddit Apps page.](https://www.reddit.com/prefs/apps) TL;DR set up an app that is a "script". Copy your keys into the `.env` file, along with whether your account uses two-factor authentication.
+4b **Ручная установка**: переименуйте `.env.template` в `.env` и замените все значения соответствующими полями. Чтобы получить ключи Reddit (**обязательно**), посетите [страницу приложений Reddit.](https://www.reddit.com/prefs/apps) TL; DR настройте приложение, которое является «скриптом». Скопируйте свои ключи в файл `.env` вместе с тем, использует ли ваша учетная запись двухфакторную аутентификацию.
 
-5. Run `python3 main.py` (unless you chose automatic install, then the installer will automatically run main.py)
-7. Enjoy 😎
+5. Запустите `python3 main.py` (если вы не выбрали автоматическую установку, установщик автоматически запустит main.py)
+7. Наслаждайтесь 😎
 
 
-If you want to see more detailed guide, please refer to the official [documentation](https://luka-hietala.gitbook.io/documentation-for-the-reddit-bot/).
-\*The Documentation is still being developed and worked on, please be patient as we change / add new knowledge!
+Если вы хотите увидеть более подробное руководство, обратитесь к официальной [документации] (https://luka-hietala.gitbook.io/documentation-for-the-reddit-bot/).
+\*Документация все еще разрабатывается и дорабатывается, пожалуйста, будьте терпеливы, пока мы меняем/добавляем новые знания!
 
-## Contributing & Ways to improve 📈
+## Участие и способы улучшения 📈
 
-In its current state, this bot does exactly what it needs to do. However, lots of improvements can be made.
+В своем текущем состоянии этот бот делает именно то, что ему нужно. Тем не менее, можно сделать много улучшений.
 
-I have tried to simplify the code so anyone can read it and start contributing at any skill level. Don't be shy :) contribute!
+Я попытался упростить код, чтобы любой мог прочитать его и внести свой вклад с любым уровнем навыков. Не стесняйтесь :) внесите свой вклад!
 
-- [x] Allowing users to choose a reddit thread instead of being randomized.
-- [ ] Allowing users to choose a background that is picked instead of the Minecraft one.
-- [x] Allowing users to choose between any subreddit.
-- [ ] Allowing users to change voice.
-- [ ] Creating better documentation and adding a command line interface.
+- [x] Разрешение пользователям выбирать ветку Reddit вместо рандомизации.
+- [ ] Разрешение пользователям выбирать фон вместо фона Minecraft.
+- [x] Разрешение пользователям выбирать между любым субреддитом.
+- [ ] Разрешение пользователям изменять голос.
+- [ ] Создание лучшей документации и добавление интерфейса командной строки.
 
-Please read our [contributing guidelines](CONTRIBUTING.md) for more detailed information.
+Пожалуйста, ознакомьтесь с нашими [правилами участия](CONTRIBUTING.md) для получения более подробной информации.
