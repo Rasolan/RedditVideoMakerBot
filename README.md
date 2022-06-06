@@ -2,9 +2,9 @@
 
 https://user-images.githubusercontent.com/6053155/170525726-2db23ae0-97b8-4bd1-8c95-00da60ce099f.mp4
 
-All done WITHOUT video editing or asset compiling. Just pure ✨programming magic✨.
+Все сделано БЕЗ редактирования видео или компиляции ресурсов. Просто чистая ✨магия программирования✨.
 
-Created by Lewis Menelaws & [TMRRW](https://tmrrwinc.ca)
+Создано Льюисом Менелаусом & [TMRRW](https://tmrrwinc.ca) (Сайт не работает лично у меня)
 
 [<picture>
 
@@ -58,5 +58,6 @@ These videos on TikTok, YouTube and Instagram get MILLIONS of views across all p
 - [x] Разрешение пользователям выбирать между любым субреддитом.
 - [ ] Разрешение пользователям изменять голос.
 - [ ] Создание лучшей документации и добавление интерфейса командной строки.
+- [ ] В скором врмени я переведу скрипт на русский
 
 Пожалуйста, ознакомьтесь с нашими [правилами участия](CONTRIBUTING.md) для получения более подробной информации.
