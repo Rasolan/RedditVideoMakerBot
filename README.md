@@ -15,9 +15,9 @@ https://user-images.githubusercontent.com/6053155/170525726-2db23ae0-97b8-4bd1-8
 
 ## Motivation 🤔
 
-These videos on TikTok, YouTube and Instagram get MILLIONS of views across all platforms and require very little effort. The only original thing being done is the editing and gathering of all materials...
+Эти видео на TikTok, YouTube и Instagram собирают МИЛЛИОНЫ просмотров на всех платформах и требуют совсем немного усилий. Единственное, что делается оригинально, это монтаж и сбор всех материалов...
 
-... but what if we can automate that process? 🤔
+... но что, если мы сможем автоматизировать этот процесс? 🤔
 
 ## Disclaimers 🚨
 
